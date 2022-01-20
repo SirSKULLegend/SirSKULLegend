@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @SirSKULLegend
+- 👋 Good Morning, I’m @SirSKULLegend
 - 👀 I’m interested in culture and languages
 - 🌱 I’m currently learning new to code my own teaching website
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 SirSKULLegend/SirSKULLegend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
