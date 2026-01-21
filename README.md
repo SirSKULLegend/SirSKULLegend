@@ -1,6 +1,3 @@
-- 👋 Good Morning, I’m @SirSKULLegend
-- 👀 I’m interested in culture and languages
-- 🌱 I’m currently learning new to code my own teaching website
 
 
 <!---
